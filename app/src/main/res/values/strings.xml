@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DocumentScanner</string>
+    <string name="text_gallery">gallery</string>
+    <string name="text_camera">camera</string>
+</resources>
